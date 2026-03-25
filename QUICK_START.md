@@ -9,7 +9,7 @@ Get running in under 5 minutes.
 ## Step 2: Load the extension
 1. Chrome → `chrome://extensions/`
 2. Enable **Developer mode** (top-right)
-3. Click **Load unpacked** → select the `grok_x_reply` folder
+3. Click **Load unpacked** → select the `x-content-sidekick` folder
 
 ## Step 3: Set up your profile
 1. Click the extension icon → **X Content Sidekick**
