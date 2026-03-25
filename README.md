@@ -2,27 +2,6 @@
 
 A Chrome extension that turns X (Twitter) into a professional brand-building platform. Powered by xAI's Grok, it gives you a persistent sidebar with three modes: intelligent reply assistance, original content creation, and conversational strategy coaching.
 
-## Screenshots
-
-### Settings
-![Settings — API key and draft count](docs/settings-1.png)
-![Settings — Voice Profile](docs/settings-2.png)
-
-### Engage
-![Engage tab — reply modes](docs/engage.png)
-
-### Sidebar
-![Sidebar open on X](docs/sidebar.png)
-
-### Reply & Post
-![Reply and post flow](docs/reply-post.png)
-
-### Create
-![Create tab — original tweets and threads](docs/create.png)
-
-### Strategy
-![Strategy tab — content coaching chat](docs/strategy.png)
-
 ---
 
 ## Features
@@ -182,6 +161,29 @@ x-content-sidekick/
 3. **Edit before posting** — drafts are starting points, your edit makes them authentic
 4. **Thread context works on detail pages** — click into a tweet first for context-aware replies on threads
 5. **Strategy tab is underrated** — ask it to critique a draft or plan your week
+
+---
+
+## Screenshots
+
+### Settings
+![Settings — API key and draft count](docs/settings-1.png)
+![Settings — Voice Profile](docs/settings-2.png)
+
+### Engage
+![Engage tab — reply modes](docs/engage.png)
+
+### Sidebar
+![Sidebar open on X](docs/sidebar.png)
+
+### Reply & Post
+![Reply and post flow](docs/reply-post.png)
+
+### Create
+![Create tab — original tweets and threads](docs/create.png)
+
+### Strategy
+![Strategy tab — content coaching chat](docs/strategy.png)
 
 ---
 
